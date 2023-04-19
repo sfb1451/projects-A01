@@ -1,0 +1,17 @@
+abstract: Project A01 focuses on the mechanisms underlying motor neuron function and
+  plasticity by investigating the protective role of Plastin 3 (PLS3) in a mouse model
+  of spinal muscular atrophy (SMA). The protective effect of PLS3 will be further
+  analysed in amyotrophic lateral sclerosis (ALS), a second motor neuron disease,
+  to verify the cross-disease protective potency. Two putative pathomechanisms, i.e.,
+  disturbed Caveolin-dependent endocytosis and calcium homeostasis, will be investigated
+  by molecular, cellular, and in vivo methods in genetically modified SMA and ALS
+  mouse models, overexpressing PLS3.
+authors:
+- {family-names: Wirth, given-names: Brunhilde}
+- {family-names: Kloppenburg, given-names: Peter}
+- {family-names: Radermacher, given-names: Jan Erik}
+- {family-names: Zilio, given-names: Eleonora}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'A01: Understanding plastin 3 and its interactors in motor neuron function
+  and plasticity in health and disease'
